@@ -1,25 +1,32 @@
 function invocarCallback(cb) {
-    // Invoca al callback `cb`
-    // Aqui tu codigo
-}
+    function foo (devolucion de llamada){
+        c.log("hola)
+              devolución de llamada();
+    }
+    foo (fuction)
+    {console.log ("terminado2){
+                  -> hola
 
 function sumarArray(numeros, cb) {
-    // Suma todos los números enteros (int/integers) de un array ("numeros")
-    // Pasa el resultado a `cb`
-    // No es necesario devolver nada
-    // Aqui tu codigo
-}  
+    var sum = 0;
+        for( var i= 0; i <arr.length;i++) {
+            if (array.isarray(arr[i])){
+                sum +=multidimsumarray(arr[i]);
+            }else 
+                sum+=array [i];
+            return sum (csllback);
 
 function forEach(array, cb) {
-    // Itera sobre la matriz "array" y pasa los valores al callback uno por uno
-    // Pista: Estarás invocando a `cb` varias veces (una por cada valor en la matriz)
-    // Aqui tu codigo
+   let foods= ["pizza", "hamburguesa", "helado", "torta"]
+   foods.foreach(functionfood) {
+       console.log(food)
+       return food.callback;
 }  
 
 function map(array, cb) {
-    // Crea un nuevo array
-    // Itera sobre cada valor en "array", pásalo a `cb` y luego ubicar el valor devuelto por `cb` en un nuevo array
-    // El nuevo array debe tener la misma longitud que el array del argumento
-    // Aqui tu codigo
-}  
-
+   var number= [2,4,6,8]
+   var doubles= numbers. map(function(x) {
+       return x*2;
+   }
+                             console.log(doubles)
+   return x*2. calbacks
