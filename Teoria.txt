@@ -3,13 +3,14 @@ Con tus propias palabras explica los siguientes conceptos.
 
 
 - Callbacks
-
+Es un concepto importante ya que tuene la capacidad de pasar una funcion como argumento a otra funcion 
 - Funcionamiento de Map()
-
+Crea un nuevo array con los reusltados que tiene de la llamada a la funcuion que se aplicó 
 - Funcionamiento de Reduce()
-
+Ejecuta una funcuion reductora sobre cada elemento que tiene un array y devuelve como resultado algo unico 
 - Funcionamiento de Filter()
-
+esta es una funcion de iteracion, esto quiere decir que genera un contexto de fila que se programa desde la primera a la ultima fila 
 - Funcionamiento de forEach()
-
+ejecuta la funcion indicada una vez por cada elemento  array 
 - En que situacion usarias un filter?
+lo utilizaria para saber el  resultado final d euna fórmula 
